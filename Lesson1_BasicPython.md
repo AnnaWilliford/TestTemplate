@@ -11,3 +11,4 @@ folder: "Spring2019"
 Let's make {{page.folder}}
 
 Include md file:
+[Lesson1](other_file.md)
