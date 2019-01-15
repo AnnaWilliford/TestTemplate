@@ -19,6 +19,30 @@ folder: "Spring2019"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+Software Carpentry Workshop
+----
+
+Lesson 1: Introduction to Python
+----  
+
+SWC workshop, February 2018  
+Instructor: Balan Ramesh  
+Time: 3 hours  
+
+---
+
+Good morning! I welcome you all to the workshop once again and I am glad you could make it safe to the workshop in such a rainy weather.
+I am Balan Ramesh. I am a graduate student in Dr. Demuth's lab here in UTA. I am interested in studying Sex chromosome evolution in Tribolium species. I work on whole genome sequences and I use various tools including programming languages Python, Shell and R.
+
+Now before we get started with python, I want to decide the pace of my lessons, so that its easy for most you. So, I would like to know how many of you have no programming experience? 
+How many of you have some programming experience?
+
+I can say this workshop will be of immense help to people with no programming experience and for people with some programming experience, I assume the later parts of the workshop will be of great use.
+
+Let's make a folder {{page.folder}} on your Desktop. We will be working with this folder for the next 2 days so it is better if you leave it on the Desktop where it is easily accesible. It also helps for everyone to have the folder in the same location as it will make it easier to navigate to your files when we start using command line interface later today.
+
+
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
