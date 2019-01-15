@@ -5,6 +5,10 @@ email: ["fixme@example.org"]    # boxed, comma-separated list of contact email a
 folder: "Spring2019"
 ---
 
+Lesson 1. Basic Python
+Instructor: {{page.instructor}}
+---
+
 Let's make {{page.folder}}
 
 Include md file:
