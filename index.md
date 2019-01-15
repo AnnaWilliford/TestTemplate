@@ -19,6 +19,9 @@ folder: "Spring2019"
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+[Lesson1_Basic Python](Lesson1_BasicPython.md)
+
+
 Software Carpentry Workshop
 ----
 
